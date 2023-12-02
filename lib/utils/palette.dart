@@ -10,6 +10,7 @@ class Palette {
   static const red = Color(0XFFED6E76);
   static const lightRed = Color(0XFFFDF1F1);
   static const test = Color(0XFFFDF1F1);
+  static const test2 = Color(0XFFFDF1F1);
 
 
   
