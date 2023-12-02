@@ -1,0 +1,15 @@
+targets:
+  $default:
+    builders:
+      slang_build_runner:
+        options:
+          input_directory: lib/translations
+          output_directory: lib/translations
+          translate_var: t
+          fallback_strategy: base_locale
+          base_locale: en-US
+   
+      freezed:
+        options:
+          maybe_when: false
+          maybe_map: false

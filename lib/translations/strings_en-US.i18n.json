@@ -1,0 +1,11 @@
+{
+    "nameSurname": "Name Surname",
+    "jobTitle": "$jobTitle",
+    "myResumes": "My Resumes",
+    "cannotFoundAnyResume": "Cannot found any resume",
+    "tapToAddExplanation": "You can view your resumes here whenever create it\nPlease start tap to + button below",
+    "todoListDialogTitle": "To Do List",
+    "todoListExplanation":"You must complete below the list.  Please go to <b>'Profile'</b>  page and complete the section in below.",
+    "must":"Must:",
+    "optional":"Optional:"
+}
